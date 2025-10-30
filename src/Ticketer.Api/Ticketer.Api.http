@@ -1,0 +1,6 @@
+@Ticketer.Api_HostAddress = http://localhost:5007
+
+GET {{Ticketer.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
